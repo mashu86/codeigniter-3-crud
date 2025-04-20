@@ -31,7 +31,7 @@
 				border: 0px solid transparent;
 				border-radius: 0px
 			}
-			
+			}
 
 			.card-body {
 				-webkit-box-flex: 1;
