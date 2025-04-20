@@ -95,7 +95,7 @@
 							<h5 class="card-title m-b-0"><?=$title?></h5>
 						
 						</div>
-						<table class="table">
+						<table class="table" style="border=1px solid black">
 							<thead>
 								<tr>
 									<th scope="col">Id</th>
